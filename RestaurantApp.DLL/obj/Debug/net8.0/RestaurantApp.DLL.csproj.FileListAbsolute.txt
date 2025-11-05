@@ -1,0 +1,17 @@
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.AssemblyInfo.cs
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\bin\Debug\net8.0\RestaurantApp.DLL.deps.json
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\bin\Debug\net8.0\RestaurantApp.DLL.runtimeconfig.json
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\bin\Debug\net8.0\RestaurantApp.DLL.dll
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\bin\Debug\net8.0\RestaurantApp.DLL.pdb
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\bin\Debug\net8.0\RestaurantApp.Core.dll
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\bin\Debug\net8.0\RestaurantApp.Core.pdb
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\Restaura.00DB590C.Up2Date
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.dll
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\refint\RestaurantApp.DLL.dll
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.pdb
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.genruntimeconfig.cache
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\ref\RestaurantApp.DLL.dll
