@@ -2,7 +2,11 @@
 {
     public class OrderItem
     {
-        public string MenuItem { get; set; }
-        public int Count { get; set; } 
+        public MenuItem MenuItem { get; set; }
+        public int Count { get; set; }
+        public double GetTotalPrice()
+        {
+            return MenuItem.Price * Count;
+        }
     }
 }

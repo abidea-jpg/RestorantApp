@@ -15,3 +15,4 @@ C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\refint\
 C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.pdb
 C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.genruntimeconfig.cache
 C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\ref\RestaurantApp.DLL.dll
+C:\Users\User\Documents\RestaurantApp\RestaurantApp.DLL\obj\Debug\net8.0\RestaurantApp.DLL.sourcelink.json

@@ -1,0 +1,8 @@
+﻿using RestaurantApp.Core.Models;
+
+namespace RestaurantApp.PL
+{
+    internal class OrderItem : RestaurantApp.Core.Models.OrderItem
+    {
+    }
+}
