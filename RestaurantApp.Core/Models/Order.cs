@@ -5,18 +5,7 @@
         public int Id { get; set; } 
         public List<OrderItem> OrderItems { get; set; }
         public double TotalAmountc { get; set; }
-        public DateTime Date { get; set; }
-        public double TotalAmount
-        {
-            get
-            {
-                double total = 0;
-                foreach (var item in OrderItems)
-                {
-                    total += item.GetTotalPrice();
-                }
-                return total;
-            }
+        public DateTime Date { get; set; }   
         }
     }
 }
